@@ -4,3 +4,4 @@ test
 hoge1
 hoge1
 hoge2
+hoge
